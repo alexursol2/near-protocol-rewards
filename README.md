@@ -44,7 +44,7 @@ npx near-protocol-rewards init
 
 3. Push to main branch
 
-That's it! 🎉 Your metrics will show up at [Protocol Rewards Dashboard](https://near-protocol-rewards.netlify.app/)
+That's it! 🎉 Your metrics will show up at [Protocol Rewards Dashboard](https://www.nearprotocolrewards.com/)
 
 ## How It Works
 
